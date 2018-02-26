@@ -3,3 +3,4 @@ A dive into the stats of [swords of The Witcher 3](https://thewitcher3.wiki.fext
 Contributions:
 - parse html with beautifulsoup
 - cool scatterplot routine
+- example usage of `itertools.zip_longest` 
