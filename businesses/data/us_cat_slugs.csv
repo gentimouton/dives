@@ -1,0 +1,34 @@
+sector_slug	label		
+total	Total for all sectors		
+agriculture	"Agriculture, forestry, fishing and hunting(650)"		
+industry	"Mining, quarrying, and oil and gas extraction"		
+industry	Utilities		
+construction	Construction		
+industry	Manufacturing		
+trade	Wholesale trade		
+trade	Retail trade		
+trade	Transportation and warehousing(651)		
+information	Information		
+finance	Finance and insurance(652)		
+real_estate	Real estate and rental and leasing		
+service	"Professional, scientific, and technical services"		
+service	Management of companies and enterprises		
+service	Administrative and support and waste management and remediation services		
+edu_health	Educational services		
+edu_health	Health care and social assistance		
+edu_health	"Arts, entertainment, and recreation"		
+trade	Accommodation and food services		
+other	Other services (except public administration)(653)		
+other	Industries not classified		
+agriculture	Exploitation forestière 		
+industry	"Industrie manufacturière, industries extractives  et autres "		
+industry	"Industrie manufacturière, industries extractives  et autres, dont artisanat commercial (*) "		
+construction	Construction 		
+trade	"Commerce de gros et de détail, transports, hébergement et restauration "		
+information	Information et communication 		
+finance	Activités auxiliaires de services financiers et d'assurance 		
+real_estate	Activités immobilières 		
+service	"Activités spécialisées, scientifiques et techniques et activités de services administratifs et de soutien "		
+edu_health	"Administration publique, enseignement, santé humaine et action sociale "		
+other	Autres activités de services 		
+total	Toutes activités		
