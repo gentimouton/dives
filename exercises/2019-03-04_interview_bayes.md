@@ -9,7 +9,6 @@ what is the probability you will receive a second interview?
 
 # graphically 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ![Bayes diagram](2019-03-04_interview-bayes.png "bayes")
 
 From this graph, it's easy to see that good interviews are 15+19=34. 
