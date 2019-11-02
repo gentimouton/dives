@@ -7,6 +7,10 @@ quick and dirty dives into various datasets
 - if this does not open in browser, [fix it](https://stackoverflow.com/a/46830008)
 - if desired (saves 1-2 clicks), [configure notebook directory](https://stackoverflow.com/a/47042617)
 
+# pycharm setup
+- download and install regular edition
+- [optional] purchase: buy 1 year, receive the licence certificate email, click on activate software. This leads to their site, where you download the activation key (2300 characters ending with `==`). In Pycharm, Help > Register > activation code (should color green).
+- to configure interpreter for a new project: pick pure python. Then 1) new env using venv, or 2) existing interpreter (should show none) > click `...` > system interpreter > `C:\Users\YOURNAME\Anaconda3\python.exe`.
 
 # best practices i'm not doing
 
