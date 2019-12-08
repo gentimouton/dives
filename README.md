@@ -32,6 +32,8 @@ def computation(p1, p2):
 # TODO
 
 Demos of the following topics
+- propensity score matching
+- regression discontinuity, diff in diff
 - herfindhal index https://github.com/econpy/search_engine_hhi
 - rand index https://en.wikipedia.org/wiki/Rand_index
 - https://en.wikipedia.org/wiki/Mahalanobis_distance: when to use, and diff vs euclidean vs manhattan
