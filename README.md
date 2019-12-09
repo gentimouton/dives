@@ -32,6 +32,8 @@ def computation(p1, p2):
 # TODO
 
 Demos of the following topics
+- black box model interpretability https://towardsdatascience.com/an-overview-of-model-explainability-in-modern-machine-learning-fc0f22c8c29a
+- stratification for exp analysis
 - propensity score matching
 - regression discontinuity, diff in diff
 - herfindhal index https://github.com/econpy/search_engine_hhi
