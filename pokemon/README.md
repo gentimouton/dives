@@ -1,21 +1,16 @@
 ### Potentially interesting questions
 
-Pokemon fanboy questions:
+Fanboy questions:
 - team of 4-6 Pokemons to finish the game easily (constraint-solve type effectiveness)
 - what makes a pokemon legendary?
 - trends and correlations between/within "power", stats, and types
 - type and stats distribution over generations
 - widget/card summarizing fun Pokemon stats (generation introduced,
 
-Amateur competitor questions: 
-- typical team compositions
-- typical moveset for a given Pokemon
-- theoretical type effectiveness vs practical battle win rate (eg flying beats ice)
-- widget/card providing best IV split, nature, moveset for a Pokemon
-
-Semi-pro competitor questions:
-- the chance that my opponent's Pokemon carries X move or Y item.
-- how the meta has changed over time, so I can anticipate future changes.
+Competitor questions: 
+- how the meta has changed over time (between generations, and within a gen), so I can anticipate future changes.
+- market basket analysis on team compositions
+- typical moveset, held item, IVs, nature, counter for a given Pokemon (just check smogon logs?)
 
 
 ### Existing questions/findings/viz
