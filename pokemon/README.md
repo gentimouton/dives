@@ -66,3 +66,6 @@ https://www.kaggle.com/abcsds/pokemongo
 Pokemon No. Name Type 1 Type 2 Max CP Max HP Image URL
 
 https://www.smogon.com/stats/ with [FAQ](https://www.smogon.com/forums/threads/official-smogon-university-usage-statistics-discussion-thread-mk-3.3591776/#post-7171782)
+
+https://github.com/route1rodent/swordshield-data
+gen 8 data
