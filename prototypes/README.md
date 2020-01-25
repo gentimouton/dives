@@ -10,10 +10,12 @@ TODO
 - generalized linear models
 - generalized additive models
 - stratified exp analysis
-- addressing colinearity in linear regression
+- addressing colinearity in linear regression (and example when/why it is a problem)
 - 2 stage least square
 - other linear models https://bashtage.github.io/linearmodels/
 - heterogeneous treatment effects in exp analysis
+- response surface in exp analysis
+- hierarchical modeling 
 - CUPED
 - ARIMA
 - prophet
