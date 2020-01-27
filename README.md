@@ -28,29 +28,8 @@ def computation(p1, p2):
     ...
 ```
 
+# tricks
 
-# TODO
-
-Demos of the following topics
-- black box model interpretability https://towardsdatascience.com/an-overview-of-model-explainability-in-modern-machine-learning-fc0f22c8c29a
-- stratification for exp analysis
-- propensity score matching
-- regression discontinuity, diff in diff
-- herfindhal index https://github.com/econpy/search_engine_hhi
-- rand index https://en.wikipedia.org/wiki/Rand_index
-- https://en.wikipedia.org/wiki/Mahalanobis_distance: when to use, and diff vs euclidean vs manhattan
-- hierarchical clustering with fixed-size buckets
-- methods to find the "right" k in kmeans
-- glm https://bbolker.github.io/math3mb/
-- [pandas: remove outliers](https://stackoverflow.com/a/23202269)
-- doing lin reg right: [addressing colinearity](https://stats.stackexchange.com/a/56531), [good code](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb), [cheat sheet](https://songhuiming.github.io/pages/2016/07/12/statsmodels-regression-examples/)
+- [outlier removal 1-liner](https://stackoverflow.com/a/23202269)
 - SettingWithCopyWarning warning from pandas: [explanation and solutions](https://stackoverflow.com/a/20627316) 
 
-
-Experimentation stuff
-- 2SLS and reducing variance
-- [Detecting Network Effects: Randomizing Over Randomized Experiments](http://web.media.mit.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf)
-- [Reducing the Variance of A/B Tests Using Prior Information](http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/)
-- [Causal inference using regression on the treatment variable](http://www.stat.columbia.edu/~gelman/arm/chap9.pdf)
-- [Adjusting for baseline covariates in randomized controlled trials](http://thestatsgeek.com/2014/02/01/adjusting-for-baseline-covariates-in-randomized-controlled-trials/)
-- best practices: [A Dirty Dozen: Twelve Common Metric Interpretation Pitfalls in Online Controlled Experiments](http://exp-platform.com/Documents/2017-08%20KDDMetricInterpretationPitfalls.pdf)
