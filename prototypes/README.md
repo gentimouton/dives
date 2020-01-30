@@ -66,7 +66,8 @@ Compare robustness to outliers vs t-test. How to report effect size and signific
 - generalized additive models
 - [other linear models](https://bashtage.github.io/linearmodels/)
 - hierarchical modeling 
-
+- [introduction to modeling](https://bbolker.github.io/math3mb/)
+- [overview of model explainability](https://towardsdatascience.com/an-overview-of-model-explainability-in-modern-machine-learning-fc0f22c8c29a)
 
 # algorithms
 - [Fast bootstrap]((https://medium.com/netflix-techblog/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a) from Netflix by histogramming the sample and Poisson drawing from it.
@@ -103,8 +104,5 @@ http://www.mit.edu/~andoni/LSH/
 - [herfindhal index](https://github.com/econpy/search_engine_hhi)
 - [rand index](https://en.wikipedia.org/wiki/Rand_index)
 - [Mahalanobis_distance](https://en.wikipedia.org/wiki/Mahalanobis_distance): when to use, and difference vs euclidean vs manhattan
-
-# classes/books to repeat
 - [basic DS concepts](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962#reader_1491952962)
-- [introduction to modeling](https://bbolker.github.io/math3mb/)
-- [overview of model explainability](https://towardsdatascience.com/an-overview-of-model-explainability-in-modern-machine-learning-fc0f22c8c29a)
+
