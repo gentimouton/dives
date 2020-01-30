@@ -14,7 +14,7 @@ See [Microsoft 2013](https://www.exp-platform.com/Documents/2013-02-CUPED-Improv
 [dean eckles](http://www.deaneckles.com/blog/745_using-covariates-to-increase-the-precision-of-randomized-experiments/).
 - [Detecting Network Effects: Randomizing Over Randomized Experiments](http://web.media.mit.edu/~msaveski/assets/publications/2017_detecting_network_effects/paper.pdf)
 - concrete examples of [Common Pitfalls in Online Controlled Experiments](http://exp-platform.com/Documents/2017-08%20KDDMetricInterpretationPitfalls.pdf)
-- [Percentile bootstrapped enveloppes](https://medium.com/netflix-techblog/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a)
+- [Percentile bootstrapped enveloppes](https://medium.com/netflix-techblog/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a).
 Instead of comparing mean/median/p90 between 2 groups, compute a conf interval 
 for each of the 100 percentiles, and Bonferroni-adjust them. 
 
@@ -58,11 +58,10 @@ Compare robustness to outliers vs t-test. How to report effect size and signific
 - causal impact lib
 
 # modeling
-- [addressing colinearity](https://stats.stackexchange.com/a/56531), 
+- [addressing colinearity](https://stats.stackexchange.com/a/56531), and example when/why it is a problem
 - regressing right: 
 [good code](https://github.com/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
 [cheat sheet](https://songhuiming.github.io/pages/2016/07/12/statsmodels-regression-examples/)
-- addressing colinearity in linear regression (and example when/why it is a problem)
 - generalized linear models
 - generalized additive models
 - [other linear models](https://bashtage.github.io/linearmodels/)
