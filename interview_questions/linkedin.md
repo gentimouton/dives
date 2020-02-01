@@ -42,7 +42,7 @@ H: changing email design (controling for subject) increases conv
 
 Table 1: world_population
  
-
+```
 continent    country    population
 North America    United States of America    324118787
 North America    Canada    36286378
@@ -50,18 +50,18 @@ North America    Mexico    128632004
 Asia    China    1382323332
 Asia    India    1326801576
 Asia    Vietnam    94444200
-
+```
 
 Question: find the largest country (in terms of population) in each continent using the table
     
 Please use SQL
 
-
+```sql
 select distinct
     continent,
     last_value(country) over(partition by continent order by population asc) as top_country
 from world_population w
-
+```
 
 # python
 
@@ -70,14 +70,13 @@ continent country population pct_of_population
 Oceania Australia 24309330  60.9235701
 
 Use python with no library
-
+```python
 continent_country_pop = {
     'NA': {
         'USA': 324123456,
         'CA':
     }
 }
-
 
 # first: compute pop for each continent
 # continent_pop = {'NA': 324118787+36286378+128632004, 'Asia': 324567894,}
@@ -107,3 +106,4 @@ for continent, countries in continent_pop_ratios.items():
 
 print("continent\tcountry\tpopulation\tpct of population")
 print('\t'.join(top_row))
+```
