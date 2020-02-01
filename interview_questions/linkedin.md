@@ -66,8 +66,10 @@ from world_population w
 # python
 
 Question - output the country with highest ratio of continent's population:
+```
 continent country population pct_of_population
 Oceania Australia 24309330  60.9235701
+```
 
 Use python with no library
 ```python
