@@ -97,7 +97,8 @@ and [intro book](http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_anal
 - [viz examples](https://serialmentor.com/dataviz/index.html)
 
 # misc
-- market basket analysis, compare algorithms for [association rule mining](https://en.wikipedia.org/wiki/Association_rule_learning#Other_types_of_association_rule_mining)
+- market basket analysis, compare algorithms for [association rule mining](https://en.wikipedia.org/wiki/Association_rule_learning#Other_types_of_association_rule_mining), 
+[intro + data](https://towardsdatascience.com/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce)
 - end-to-end spam detector: stemmer, naive bayes, flask frontend
 - recommender using nearest neighbor
 - recommender using collaborative filtering
