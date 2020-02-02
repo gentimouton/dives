@@ -39,6 +39,7 @@ Also relevant when combining stratified samples.
 [R package](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/ever).
 
 # tests
+- [spearman: assumptions, what it tests, when it differs from pearson](https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php)
 - [Ratio t-test](https://www.graphpad.com/guides/prism/7/statistics/stat_paired_or_ratio_t_test.htm?toc=0) vs t-test on difference.
 - [Welch’s T-test](https://en.wikipedia.org/wiki/Welch%27s_t-test#Examples)
 and Homoscedasticity. Plot wrongness of t-test against difference in variances.
@@ -82,6 +83,9 @@ http://www.mit.edu/~andoni/LSH/
 - ARIMA
 - prophet
 - SAX representation and aggregation
+- [survival analysis](https://data.princeton.edu/pop509/), [Gillen's class](https://eee.uci.edu/11s/37910), 
+and [intro book](http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_analysis_195.721.pdf)
+- [proportional hazard model - cox model](https://en.wikipedia.org/wiki/Proportional_hazards_model#The_Cox_model)
 
 # clustering
 - hierarchical clustering with fixed-size buckets
