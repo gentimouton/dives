@@ -18,8 +18,8 @@ See [Microsoft 2013](https://www.exp-platform.com/Documents/2013-02-CUPED-Improv
 Instead of comparing mean/median/p90 between 2 groups, compute a conf interval 
 for each of the 100 percentiles, and Bonferroni-adjust them. 
 
-# sequential testing
-
+# sequential testing/multiple comparisons
+- [Dunnet's test](https://en.wikipedia.org/wiki/Dunnett%27s_test)
 - [Newman-Keuls](https://en.wikipedia.org/wiki/Newman%E2%80%93Keuls_method). 
 Assume homoscedasticity. Alternative to Bonferroni correction.
 Run Anova first, if you find a sig diff, sort the G groups by their means, quasi-t-test* rank 1 vs rank G. 
@@ -86,6 +86,7 @@ http://www.mit.edu/~andoni/LSH/
 - [survival analysis](https://data.princeton.edu/pop509/), [Gillen's class](https://eee.uci.edu/11s/37910), 
 and [intro book](http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_analysis_195.721.pdf)
 - [proportional hazard model - cox model](https://en.wikipedia.org/wiki/Proportional_hazards_model#The_Cox_model)
+- [forecasting ebook](https://otexts.com/fpp2/stl.html)
 
 # clustering
 - hierarchical clustering with fixed-size buckets
