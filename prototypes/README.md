@@ -91,7 +91,7 @@ and [intro book](http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_anal
 # clustering
 - hierarchical clustering with fixed-size buckets
 - kmeans silhouette, inertia analysis, and other methods to justify `k`
-- affinity clustering
+- [affinity propagation](https://scikit-learn.org/stable/auto_examples/cluster/plot_affinity_propagation.html#sphx-glr-auto-examples-cluster-plot-affinity-propagation-py)
 
 # viz
 - Ternary plot. Each data point has 3 percentages, summing up to 100%. Plot points within a triangle.
