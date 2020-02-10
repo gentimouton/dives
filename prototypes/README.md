@@ -71,7 +71,7 @@ Compare robustness to outliers vs t-test. How to report effect size and signific
 - [overview of model explainability](https://towardsdatascience.com/an-overview-of-model-explainability-in-modern-machine-learning-fc0f22c8c29a)
 
 # algorithms
-- [Fast bootstrap]((https://medium.com/netflix-techblog/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a) from Netflix by histogramming the sample and Poisson drawing from it.
+- [Fast bootstrap](https://medium.com/netflix-techblog/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a) from Netflix by histogramming the sample and Poisson drawing from it.
 - [T-digest](https://github.com/CamDavidsonPilon/tdigest) compute percentiles for streaming data. Additive, thus parallelizable.
 - [non-negative matrix factorization](https://datascience.stackexchange.com/questions/10299/what-is-a-good-explanation-of-non-negative-matrix-factorization )
 produces topics from term-document matrix. 
@@ -90,7 +90,8 @@ and [intro book](http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_anal
 
 # clustering
 - hierarchical clustering with fixed-size buckets
-- kmeans silhouette and other methods to justify `k`
+- kmeans silhouette, inertia analysis, and other methods to justify `k`
+- affinity clustering
 
 # viz
 - Ternary plot. Each data point has 3 percentages, summing up to 100%. Plot points within a triangle.
