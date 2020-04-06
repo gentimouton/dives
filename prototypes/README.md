@@ -87,6 +87,7 @@ http://www.mit.edu/~andoni/LSH/
 and [intro book](http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_analysis_195.721.pdf)
 - [proportional hazard model - cox model](https://en.wikipedia.org/wiki/Proportional_hazards_model#The_Cox_model)
 - [forecasting ebook](https://otexts.com/fpp2/stl.html)
+- bayesian structured time series
 
 # clustering
 - hierarchical clustering with fixed-size buckets
@@ -113,4 +114,7 @@ and [intro book](http://www.biecek.pl/statystykaMedyczna/Stevenson_survival_anal
 - [rand index](https://en.wikipedia.org/wiki/Rand_index)
 - [Mahalanobis_distance](https://en.wikipedia.org/wiki/Mahalanobis_distance): when to use, and difference vs euclidean vs manhattan
 - [basic DS concepts](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962#reader_1491952962)
+- [dollar-cost averaging](https://ofdollarsanddata.com/even-god-couldnt-beat-dollar-cost-averaging) investment strategy 
+- [look into world value survey](http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp)
+
 
